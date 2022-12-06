@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 💬 Ask me about **Dart, Flutter, HTML, CSS, JAVA, C**
+- 💬 Ask me about **Dart, Flutter, HTML, CSS, JAVA & C**
 
 - 📫 How to reach me **shamsiprof@gmail.com**
 
