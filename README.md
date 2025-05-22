@@ -11,22 +11,20 @@
 
 -  Mobile App Developer specialized in **Flutter**, building ERP, GPS tracking, and real-time chat apps.
 -  Currently working on: **Next.js**, **FastAPI**, and building a full-stack project.
--  Goal: Grow as a Full-Stack Developer and apply globally 
+-  Goal: Grow as a Full-Stack Developer
 
-
-
----### 🔧 Tech Stack
+---
+### 🔧 Tech Stack
 
 
 | Mobile      | Flutter, Dart, Firebase, Hive, SQLite |
-|-------------|---------------------------------------|
-| Web         | React.js, JavaScript, HTML5, CSS3     |
-| Backend     | Python, Java, C, FastAPI               |
-| UI / Tools  | Figma, Git, GitHub, VS Code, Postman  |
-| State Mgmt  | Provider, BLoC, GetX                   |
-| Others      | REST API, ERPNext API, SQLite          |
+|-------------|--------------------------------------|
+| Web         | React.js, JavaScript, HTML5, CSS3    |
+| Backend     | Python, Java, C, FastAPI              |
+| UI / Tools  | Figma, Git, GitHub, VS Code, Postman |
+| State Mgmt  | Provider, BLoC, GetX                  |
+| Others      | REST API, ERPNext API, SQLite         |
 
----
 
 ### 📌 Featured Projects
 
