@@ -10,8 +10,8 @@
 
 
 -  Mobile App Developer specialized in **Flutter**, building ERP, GPS tracking, and real-time chat apps.
--  Currently working on: **Next.js**, **FastAPI**, and building a full-stack project.
--  Goal: Grow as a Full-Stack Developer
+-  Currently learning Next.js and Python to expand my full-stack skills while building a full-stack project.
+-  Goal: Grow as a Full-Stack Developer.
 
 ---
 ### 🔧 Tech Stack
