@@ -1,34 +1,62 @@
+<h1 align="center">👋 I'm Shamseena M A</h1>
 
-<h1 align="center">👋, I'm Shamseena M A</h1>
+<p align="center">
+  Flutter Developer | Full Stack Learner | API Integration Enthusiast
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsifarooq&label=Profile%20views&color=0e75b6&style=flat" alt="shamsifarooq" /> </p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=1A7CF9&width=435&lines=I+am+a+Flutter+Developer" alt="Typing SVG" /></a>
-
-
-- 🌱 I’m currently learning **Dart, Flutter**
-
-- 💬 Ask me about **Dart, Flutter, HTML, CSS, Python, Java & C**
-
-- 📫 How to reach me **shamsiprof@gmail.com**
+### 👩‍💻 About Me
 
 
+-  Mobile App Developer specialized in **Flutter**, building ERP, GPS tracking, and real-time chat apps.
+-  Currently working on: **Next.js**, **FastAPI**, and building a full-stack project.
+-  Goal: Grow as a Full-Stack Developer and apply globally 
 
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px><small>Languages and Tools:</small>
 
 
- [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,git,github,bootstrap,figma,vscode,java,c,hive)](https://skillicons.dev)
+---### 🔧 Tech Stack
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+| Mobile      | Flutter, Dart, Firebase, Hive, SQLite |
+|-------------|---------------------------------------|
+| Web         | React.js, JavaScript, HTML5, CSS3     |
+| Backend     | Python, Java, C, FastAPI               |
+| UI / Tools  | Figma, Git, GitHub, VS Code, Postman  |
+| State Mgmt  | Provider, BLoC, GetX                   |
+| Others      | REST API, ERPNext API, SQLite          |
+
+---
+
+### 📌 Featured Projects
+
+**🧑‍💼 ERPNext Flutter App** – [Private Repo]  
+Advanced ERP mobile app with CRM, HR, and Project modules, built from scratch using Flutter, REST API, SQLite, and Provider.
+
+**🧹 Cleaners Booking App** – [GitHub](https://github.com/ShamsiFarooq/alora.git)  
+Freelance app for real-time service booking with location tracking, admin dashboard, and chat features.
+
+**🎵 Listeny – Music Player** – [GitHub](https://github.com/ShamsiFarooq/Listeny_Bloc.git)  
+Offline MP3 player built with Flutter, BLoC, Hive for local storage.
+
+**🧠 React Quiz App** – [GitHub](https://github.com/ShamsiFarooq/quiz-app.git)
+Frontend quiz application using React.js, Context API, Vite, and real-time scoring.
+
+---
+
+### 📫 Contact
+
+- **Email**: shamsiprof@gmail.com  
+- **LinkedIn**: [shamsifarooq](https://www.linkedin.com/in/shamsifarooq/)
+
+---
+
+### 📊 GitHub Stats
 
 <p>
-<a href="https://www.linkedin.com/in/shamsifarooq/"><img width="100px" alt="Youtube" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
- </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsifarooq&show_icons=true&locale=en&layout=compact" alt="shamsifarooq" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsifarooq&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsifarooq&" alt="shamsifarooq" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsifarooq" alt="GitHub Streak" />
+</p>
