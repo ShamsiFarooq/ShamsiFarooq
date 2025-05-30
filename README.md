@@ -17,13 +17,15 @@
 ### 🔧 Tech Stack
 
 
-| Mobile      | Flutter, Dart, Firebase, Hive, Sqflite |
-|-------------|--------------------------------------|
-| Web         | React.js, JavaScript, HTML5, CSS3    |
-| Backend     | Python, Java, C, FastAPI              |
-| UI / Tools  | Figma, Git, GitHub                   |
-| State Mgmt  | Provider, BLoC, GetX                  |
-| Others      | REST API, ERPNext API, DSA         |
+| **Category** | **Skills** |
+|--------------|------------|
+| Mobile       | Flutter, Dart, Firebase, Hive, Sqflite |
+| Web          | JavaScript, React.js, Next.js, HTML5, CSS3 |
+| Backend      | Python, Java, C, FastAPI |
+| UI / Tools   | Figma, Git, GitHub |
+| State Mgmt   | Provider, BLoC, GetX |
+| Others       | REST API, ERPNext API, DSA |
+
 
 
 ### 📌 Featured Projects
